@@ -10,9 +10,10 @@ cómputos profundos. Síntesis de dos artículos:
 - Dueñez, Iovino, Matos-Wiederhold, Salvetti, Tall — *Complejidad de cómputos profundos
   vía topología de espacios de funciones* (en preparación).
 
-## Slides
+## Diapositivas
 
-- **[2026-FES_Acatlan-ultracomputos.pdf](./2026-FES_Acatlan-ultracomputos.pdf)** — diapositivas Beamer, 22 láminas.
+- Español: **[2026-FES_Acatlan-ultracomputos.pdf](./2026-FES_Acatlan-ultracomputos.pdf)**.
+- English: **[2026-FES_Acatlan-ultracomputations.pdf](./2026-FES_Acatlan-ultracomputations.pdf)**.
 
 ## Notebooks complementarios
 
@@ -25,9 +26,3 @@ descarga el `.ipynb` y ejecútalo localmente con `jupyter lab` / `jupyter notebo
 | `deq_networks.ipynb` | Deep Equilibrium Networks (DEQ); equilibrios de iteración con puntos fijos. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eduenez/public-site/blob/main/2026-FES_Acatlan-ultracomputos/notebooks/deq_networks.ipynb) |
 | `baire_functions.ipynb` | Clase de Baire 1 como límite puntual; Thomae, Dirichlet, la frontera dócil/salvaje. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eduenez/public-site/blob/main/2026-FES_Acatlan-ultracomputos/notebooks/baire_functions.ipynb) |
 | `vc_nip.ipynb` | Dimensión VC, NIP, aprendizaje PAC; del *shattering* al teorema fundamental. | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eduenez/public-site/blob/main/2026-FES_Acatlan-ultracomputos/notebooks/vc_nip.ipynb) |
-
-## English version
-
-A version of this talk was prepared in English under the working title
-*Complexity of Deep Computations via Topology of Function Spaces* for an IIMAS slot
-that was later cancelled. Available on request.
